@@ -2,7 +2,9 @@
 
 🌱 I’m currently learning to become a better version of myself
 
-⚡ Fun fact: Less is more
+⚡ Fun fact: Less is More
+
+Rage, rage against the dying of the light.
 
 <!--
 **Draconn55/Draconn55** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
